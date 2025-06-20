@@ -12,11 +12,11 @@ A modern Android task management application with email authentication and time 
 
 ## 📄 Demo Presentation
 
-👉 [View Demo Presentation (PDF)](https://github.com/TarlanaVikas19/Action-Pad/blob/main/demo/ActionPad-Demo.pdf)
+👉 [View Demo Presentation (PDF)](https://github.com/TarlanaVikas19/Action-Pad/blob/main/demo/Action-pad-presentation.pdf)
 
 ## 📹 Demo Video
 
-👉 [Download Demo Video (MP4)](https://github.com/TarlanaVikas19/Action-Pad/raw/main/demo/demo-video.mp4)
+👉 [Download Demo Video (MP4)](https://github.com/TarlanaVikas19/Action-Pad/raw/main/demo/Action-pad-demo-video.mp4)
 
 ### ✅ **Task Management**
 - **Add Tasks**: Create new tasks with title, description, and due date
