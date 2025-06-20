@@ -10,6 +10,14 @@ A modern Android task management application with email authentication and time 
 - **Logout Functionality**: Secure logout with confirmation dialog
 - **Session Management**: Automatic login state persistence
 
+## 📄 Demo Presentation
+
+👉 [View Demo Presentation (PDF)](https://github.com/TarlanaVikas19/Action-Pad/blob/main/demo/ActionPad-Demo.pdf)
+
+## 📹 Demo Video
+
+👉 [Download Demo Video (MP4)](https://github.com/TarlanaVikas19/Action-Pad/raw/main/demo/demo-video.mp4)
+
 ### ✅ **Task Management**
 - **Add Tasks**: Create new tasks with title, description, and due date
 - **Edit Tasks**: Modify existing task details
